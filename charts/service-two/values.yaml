@@ -1,7 +1,7 @@
 replicaCount: 1
 image:
-  repository: hazzindu/springboot-app
-  tag: 2.0.1
+  repository: hazzindu/microservicetwo
+  tag: 0.0.1
   pullPolicy: IfNotPresent
 service:
   name: nginx
